@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>number</col_name_string>
+        <index_col_name element="number" name="x_hotel_room">65d78f76db100300681ef11ebf9619b0</index_col_name>
+        <logical_table_name>x_hotel_room</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-04 16:24:46</sys_created_on>
+        <sys_id>dd2c4f72db500300681ef11ebf9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hotel_room</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_index_x_hotel_room_number</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-04 16:24:46</sys_updated_on>
+        <table display_value="Room" name="x_hotel_room">1cd64fbedb100300681ef11ebf96199d</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>
